@@ -1,0 +1,1 @@
+import Layout from '@/components/Layout'; export default function Governance(){return <Layout><h1 className='font-serif text-3xl'>Governance</h1><p>Section landing (static demo)</p></Layout>}

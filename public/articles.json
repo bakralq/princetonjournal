@@ -1,0 +1,20 @@
+{
+  "latest": {
+    "title": "Welcome to The Princeton Journal",
+    "slug": "welcome",
+    "date": "2025-10-02",
+    "body": "# Launch Day\\nThis is the first article for the new site."
+  },
+  "others": [
+    {
+      "title": "Community Spotlight",
+      "slug": "community-spotlight",
+      "date": "2025-09-20"
+    },
+    {
+      "title": "Governance 101",
+      "slug": "governance-101",
+      "date": "2025-09-10"
+    }
+  ]
+}

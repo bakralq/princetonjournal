@@ -1,0 +1,58 @@
+{
+  "weeks": [
+    {
+      "weekOf": "2025-09-29",
+      "agendaUrl": "https://example.com/agenda.pdf",
+      "items": [
+        {
+          "title": "Zoning amendment A",
+          "explanation": "Allows duplexes on Corner St.",
+          "votes": {
+            "Mayor": "Yes",
+            "P1": "Yes",
+            "P2": "No",
+            "P3": "Yes",
+            "P4": "Yes",
+            "P5": "Abstain",
+            "P6": "Yes",
+            "P7": "Yes"
+          }
+        }
+      ]
+    }
+  ],
+  "members": [
+    {
+      "role": "Mayor",
+      "name": "Jane Smith"
+    },
+    {
+      "role": "P1",
+      "name": "Member 1"
+    },
+    {
+      "role": "P2",
+      "name": "Member 2"
+    },
+    {
+      "role": "P3",
+      "name": "Member 3"
+    },
+    {
+      "role": "P4",
+      "name": "Member 4"
+    },
+    {
+      "role": "P5",
+      "name": "Member 5"
+    },
+    {
+      "role": "P6",
+      "name": "Member 6"
+    },
+    {
+      "role": "P7",
+      "name": "Member 7"
+    }
+  ]
+}
